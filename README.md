@@ -29,17 +29,17 @@ Als ehemaliger Sales-Mitarbeiter interessiert mich besonders, welche Kunden wirk
 ### 1. Starkes Pareto-Muster bei der Kundenwertverteilung
 Nur 22% der Kunden (Champions) erwirtschaften **72% des Gesamtumsatzes**.
 
-![Umsatz pro Segment](umsatz_segment_chart.png)
+![Umsatz pro Segment](images/umsatz_segment_chart.png)
 
 ### 2. Kundensegment-Verteilung
 Die größte Gruppe (25%) befindet sich im Segment "Abwanderungsgefahr" – ein klarer Ansatzpunkt für Reaktivierungsmaßnahmen, solange diese Kunden noch nicht ganz verloren sind.
 
-![Kundensegmente](segment_chart.png)
+![Kundensegmente](images/segment_chart.png)
 
 ### 3. Schwächere Retention bei neueren Kunden-Cohorts
 Die Cohort-Heatmap zeigt, dass die früheste Cohort (Dez. 2009) eine deutlich bessere Kundenbindung aufweist als spätere Cohorts. Zusätzlich ist ein wiederkehrender saisonaler Effekt rund um Monat 11–12 erkennbar (vermutlich Weihnachtsgeschäft).
 
-![Retention Heatmap](retention_heatmap.png)
+![Retention Heatmap](images/retention_heatmap.png)
 
 ## Handlungsempfehlungen
 
