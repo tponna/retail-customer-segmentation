@@ -61,4 +61,4 @@ Einzelne sehr große Bestellungen (vermutlich Großhandelskunden, z.B. eine Best
 
 ## Autor
 
-P.Tharunnya – p.thaeunnya@gmail.com 
+P.Tharunnya – p.tharunnya@gmail.com 
