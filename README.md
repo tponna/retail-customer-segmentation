@@ -59,6 +59,12 @@ Einzelne sehr große Bestellungen (vermutlich Großhandelskunden, z.B. eine Best
 3. Benötigte Bibliotheken installieren: `pip install -r requirements.txt`
 4. Notebook `retail_analysis.ipynb` öffnen und ausführen (z.B. in Jupyter oder Google Colab)
 
+## Hinweis zu den Projekten
+
+Bei der Code-Erstellung habe ich unterstützend KI-Tools (Claude) genutzt – 
+etwa für Syntax-Hilfe und Debugging. Fragestellung, Analyseentscheidungen 
+und Interpretation der Ergebnisse stammen von mir.
+
 ## Autor
 
 P.Tharunnya – p.tharunnya@gmail.com 
